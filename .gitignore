@@ -130,3 +130,9 @@ dmypy.json
 
 #vscode
 .vscode
+artifacts/data_ingestion/data.zip
+artifacts/data_ingestion/PetImages/Cat/*.jpg
+artifacts/data_ingestion/PetImages/Dog/*.jpg
+artifacts/data_ingestion/data.zip
+*.jpg
+*.zip
