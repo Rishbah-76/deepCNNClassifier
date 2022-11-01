@@ -1,0 +1,1 @@
+from deepclassifier.entity.entity import DataIngestionConfig
