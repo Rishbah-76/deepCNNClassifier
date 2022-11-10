@@ -136,3 +136,6 @@ artifacts/data_ingestion/PetImages/Dog/*.jpg
 artifacts/data_ingestion/data.zip
 *.jpg
 *.zip
+artifacts/prepare_callbacks/*
+artifacts/training/*
+artifacts/prepare_base_model/*
